@@ -6,3 +6,9 @@ to run the migration:
 npx prisma migrate dev --name init
 
 b2: define routing
+
+
+b3: JWT
+npm i jsonwebtoken bcrypt dotenv
+  
+  
